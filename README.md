@@ -6,7 +6,7 @@
 Перед запуском скрипта, просьба установиьт или проверить, наличие openssl
 Debian:
 
-apt-get install openssl   
+apt install openssl   
 
 Centos:
 
